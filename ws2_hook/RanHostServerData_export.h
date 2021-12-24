@@ -1,0 +1,1 @@
+void RanParser_RecvHostServerData(data8 *Data, data32 Len);

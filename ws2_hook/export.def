@@ -1,0 +1,15 @@
+SECTIONS
+.ranhookdata   READ WRITE SHARED
+
+EXPORTS
+hook_connect=__hook_connect @1
+hook_send=__hook_send @2
+hook_recv=__hook_recv @3
+
+GetHookerStatus=__GetHookerStatus @4
+AutoRegenPP=__AutoRegenPP @5
+AutoPicking=__AutoPicking @6
+EntryArea=__EntryArea @7
+AutoMission=__AutoMission @8
+AttackTest=__AttackTest @9
+GetSysInfo=__GetSysInfo @10
