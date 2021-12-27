@@ -1,5 +1,7 @@
 # ws2_hook
 
+亂Online 外卦 hooker 部份 (針對 nProtect)
+
 Ran Online Bot hooker (against nProtect)
 
 installation
